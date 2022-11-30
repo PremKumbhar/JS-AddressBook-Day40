@@ -133,8 +133,8 @@ while(t){
 
 let Prem = new Person('Prem','Kumbhar','Kolhapur','Kolhapur','Maharashtra','416001','7350447788','premkumbhar7@.com');
 let Prathmesh = new Person('Prathmesh','Kumbhar',' Pune','Pune','Maharashtra','411011','7744969900','prathmeshk10@.com');
-console.log(Prem);
-console.log(Prathmesh);
+contactList.push(Prem);
+contactList.push(Prathmesh);
 contactList.push(obj);
 console.log(contactList);
 
